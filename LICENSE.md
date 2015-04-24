@@ -1,3 +1,10 @@
+Unless otherwise stated, all code and markup is under the terms of the MIT license (below).
+
+All art assets (unless otherwise stated) are covered under [CC-NC](https://creativecommons.org/licenses/by-nc/3.0/us/)
+
+assets/music/saywhatyouwill.mp3 and assets/music/Horror_Adventure_v2 are under Attribution 4.0 International (CC BY 4.0), by Eric Taylor
+assets/music/jp_Themesong_2.mp3 is CC-BY, by Anonymous.
+
 # MIT License
 
 ## Not My Panties! copyright (c) 2015:
