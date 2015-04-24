@@ -1,0 +1,27 @@
+Excessive Games - https://github.com/excessive
+=========================================
+
+Programming & SFX
+-------------------------------------------------------------
+Landon Manning (Karai) - https://github.com/Karai17
+Colby Klein (shakesoda) - https://github.com/shakesoda
+
+Models & Animation
+-------------------------------------------------------------
+shakesoda
+
+Voice
+-------------------------------------------------------------
+Tsubasa - Nadja (Dr. Pen) - nadjakitten@hotmail.com
+
+Music
+-------------------------------------------------------------
+Eric Taylor - http://opengameart.org/users/fearlessleader
+Anon - /jp/ Themesong 2 - http://boards.4chan.org/jp/
+
+Special Thanks
+-------------------------------------------------------------
+Map Textures - Pixar Animation Studios
+
+P.S. The game EXE is a zip file, feel free to poke around!
+P.P.S. Tsubasa is a boy, if you didn't get the joke.
